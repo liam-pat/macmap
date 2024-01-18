@@ -7,7 +7,7 @@ Find the vendor information by mac address
 ## Installation
 
 ```bash
-bash > go get -u github.com/timest/gomanuf
+bash > go get -u github.com/YaoMiss/macmap
 ```
 
 ## Usage
