@@ -2,6 +2,7 @@ package macmap
 
 import "C"
 import (
+	"fmt"
 	"os"
 	"strings"
 )
@@ -33,7 +34,7 @@ func init() {
 	db36, _ = reader36.ReadAll2Map("Assignment")
 }
 
-func Search(mac string) (info interface{}) {
+func Search(mac string) (info string) {
 	var bit24, bit28, bit36 int = 24, 28, 36
 	strSlice := strings.Split(mac, ":")
 	macStr := strings.Join(strSlice, "")
@@ -52,6 +53,8 @@ func Search(mac string) (info interface{}) {
 		}
 		vendorInfo = info1
 	}
+	vendorInfoSlice := make([]string, 0)
+	vendorInfoSlice = vendorInfo.([]string)
 
-	return vendorInfo
+	return fmt.Sprintf("%s = %s", vendorInfoSlice[0], vendorInfoSlice[2])
 }

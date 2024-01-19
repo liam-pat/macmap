@@ -14,7 +14,7 @@ bash > go get -u github.com/YaoMiss/macmap
 
 ```go
 import (
-    macmap "github.com/YaoMiss/macmap"
+    macmap "github.com/YaoMiss/macmap@v1.0.1"
 )
 
 m1 := macmap.Search("18:65:90:dc:c0:cb")

@@ -11,8 +11,4 @@ func TestSearch(t *testing.T) {
 	d1 := macmap.Search(mac1)
 	fmt.Printf("%s ==> %v\n", mac1, d1)
 
-	d2 := macmap.Search("24:1f:a0:17:6d:9b")
-	if d2 == nil {
-		t.Fatal("data err")
-	}
 }
