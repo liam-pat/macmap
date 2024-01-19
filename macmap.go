@@ -43,7 +43,7 @@ func Search(mac string) (info string) {
 	index28 := strings.ToUpper(macStr[0 : bit28/4])
 	index36 := strings.ToUpper(macStr[0 : bit36/4])
 
-	var vendorInfo interface{}
+	var vendorInfo interface{} = nil
 	if info1, ok := db24[index24]; ok {
 		if info2, ok := db28[index28]; ok {
 			if info3, ok := db36[index36]; ok {
@@ -52,6 +52,10 @@ func Search(mac string) (info string) {
 			vendorInfo = info2
 		}
 		vendorInfo = info1
+	}
+
+	if vendorInfo == nil {
+		return ""
 	}
 	vendorInfoSlice := make([]string, 0)
 	vendorInfoSlice = vendorInfo.([]string)
