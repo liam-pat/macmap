@@ -4,6 +4,8 @@ import "C"
 import (
 	"fmt"
 	"os"
+	"path"
+	"runtime"
 	"strings"
 )
 
@@ -12,9 +14,11 @@ var db28 map[string]interface{}
 var db36 map[string]interface{}
 
 func init() {
-	f24Name := "./MAS.csv"
-	f28Name := "./MAM.csv"
-	f36Name := "./MAL.csv"
+	_, file, _, _ := runtime.Caller(0)
+
+	f24Name := path.Join(path.Dir(file), "MAS.csv")
+	f28Name := path.Join(path.Dir(file), "MAM.csv")
+	f36Name := path.Join(path.Dir(file), "MAL.csv")
 
 	f24, _ := os.Open(f24Name)
 	f28, _ := os.Open(f28Name)
