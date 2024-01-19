@@ -26,7 +26,7 @@ func RefreshDB() {
 				log.Fatalln(err)
 			}
 
-			localOut, err := os.Create(fmt.Sprintf("./db/%s.csv", name))
+			localOut, err := os.Create(fmt.Sprintf("./%s.csv", name))
 			if err != nil {
 				log.Fatalln(err)
 			}

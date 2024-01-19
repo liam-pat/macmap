@@ -12,9 +12,9 @@ var db28 map[string]interface{}
 var db36 map[string]interface{}
 
 func init() {
-	f24Name := "./db/MAS.csv"
-	f28Name := "./db/MAM.csv"
-	f36Name := "./db/MAL.csv"
+	f24Name := "./MAS.csv"
+	f28Name := "./MAM.csv"
+	f36Name := "./MAL.csv"
 
 	f24, _ := os.Open(f24Name)
 	f28, _ := os.Open(f28Name)
