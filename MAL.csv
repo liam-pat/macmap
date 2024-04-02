@@ -1177,6 +1177,17 @@ MA-S,70B3D5A05,Wartsila Voyage Oy,Hiililaiturinkuja 2 Helsinki  FI 00180
 MA-S,8C1F64696,Emerson Rosemount Analytical,8200 Market Blvd. Chanhassen MN US 55317-9687 
 MA-S,8C1F64B20,Lechpol Electronics Spółka z o.o. Sp.k.,Garwolińska 1  Mietne Garwolin PL 08-400 
 MA-S,8C1F64AF1,E-S-Tel,Rue du moulin 20 Walcourt  BE 5650 
+MA-S,8C1F64294,nanoTRONIX Computing Inc.,"1, Wood Road Wilmington DE US  19806 "
+MA-S,8C1F64F7D,"RPG INFORMATICA, S.A.",C/FERNANDO REY 11 CIUDAD DE LA IMAGEN Pozuelo de Alarcón Madrid ES 28224 
+MA-S,8C1F647A0,Potter Electric Signal Co. LLC,1609 Park 370 Place Hazelwood  US 63042 
+MA-S,8C1F64E0C,TELESTRIDER SA,Stilianou ke Nikoalou Giamalaki 50 HERAKLION  GR 71202 
+MA-S,8C1F64BA6,FMC Technologies Measurement Solutions Inc,1602 Wagner Ave Erie PA US 16510-1444 
+MA-S,8C1F6410B,Red Lion Europe GmbH,Winnettener Strasse 6 Dinkelsbuehl Bavaria DE 91550 
+MA-S,8C1F6413C,SiFive Inc,2625 Augustine Drive Suite 101 Santa Clara CA US 95054 
+MA-S,8C1F64D1F,"Free Talk Engineering Co., Ltd",2-1 Maruyama Miyazaki-shi Miyazaki JP 880-0052 
+MA-S,8C1F645E8,Sterna Security Devices Pvt Ltd,100 West sambandam road Coimbatore Tamilnadu IN 641002 
+MA-S,8C1F64260,E-alarms,Sauletekio al. 15-1 Vilnius  LT LT-10224 
+MA-S,8C1F64016,Signtel Communications Pvt Ltd,"G2 Ground Floor, 209 Lal Dora, Masjid Moth,  New Delhi Delhi IN 110049 "
 MA-S,8C1F64A98,"Jacobs Technology, Inc.",7765 Old Telegraph Road Severn MD US 21144 
 MA-S,8C1F644A9,Martec Marine S.p.a.,Via dell'industria 1/3 Vignate Milano IT 20052 
 MA-S,8C1F64DE5,Gogo Business Aviation,"105 Edgeview Dr., Suite 300 Broomfield CO US 80021 "
@@ -1815,7 +1826,6 @@ MA-S,70B3D5CD0,Ellenex Pty Ltd,91 Tope Street South Melbourne VIC AU 3205
 MA-S,70B3D55FA,TEX COMPUTER SRL ,VIA MERCADANTE 35 CATTOLICA  RIMINI  IT 47841 
 MA-S,70B3D5382,Naval Group,40-42 Rue Du Docteur Finlay PARIS CEDEX 15  FR 75732 
 MA-S,70B3D54C0,Technica Engineering GmbH,Leopoldstraße 236 Munich  DE 80807 
-MA-S,70B3D592F,SiFive,1875 S Grant St San Mateo CA US 94403 
 MA-S,70B3D5D6A,KnowRoaming,90 Eglinton Ave. E Toronto Ontario - ON CA M4P2Y3 
 MA-S,70B3D57D6,Yukilab,"1-7-3 Sekiya-Matsunami, Chuo Niigata Niigata JP 951-8161 "
 MA-S,70B3D5BAF,SYS TEC electronic GmbH,Am Windrad 2 Heinsdorfergrund   DE D-08468 
@@ -2361,6 +2371,15 @@ MA-S,8C1F6480E,TxWireless Limited,"DCU Alpha, Innovation Campus, Old Finglas Roa
 MA-S,8C1F6443A,Spacelite Inc,152 Bull Domingo Lane Westcliffe CO US 81252 
 MA-S,8C1F64CA2,eumig industrie-TV GmbH.,Gewerbeparkstrasse 9 Anif Salzburg AT 5081 
 MA-S,8C1F64319,Exato Company,50 Cottage Ave Lancaster PA US 17602 
+MA-S,8C1F64ADB,"Hebei Weiji Electric Co.,Ltd","No. 2 Century Street, Economic Development Zone, Handan City,Hebei Province Handan  CN 056003 "
+MA-S,8C1F6403B,"Orion Power Systems, Inc.",2939 W. Beaver Street Jacksonville FL US 32254 
+MA-S,8C1F643F7,Mitsubishi Electric India Pvt. Ltd.,"Plot No B3, Talegaon industrial area Phase II, MIDC Talegaon, Badhalwadi, Post Navlakh Umbre, Tal. Maval, Pune Maharashtra IN 410507 "
+MA-S,70B3D592F,SiFive Inc,1875 S Grant St San Mateo CA US 94403 
+MA-S,8C1F64D80,AZTEK SA,30 zare ouest EHLERANGE  LU L-4384 
+MA-S,8C1F6458B,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
+MA-S,8C1F648D8,MBV AG,Industriestrasse 9 Staefa Zurich CH 8712 
+MA-S,8C1F645AA,Landis+Gyr Equipamentos de Medição Ltda,"Hasdrubal Bellegard, 400, CIC Curitiba Paraná BR 81460-120 "
+MA-S,8C1F640F1,ideaForge Technology Limited,"702/Q2 Building, Aurum park Op ghansoli railway station navi mumbai maharashtra IN 400710 "
 MA-S,8C1F64E6F,Vision Systems Safety Tech,5 Chemin de Chiradie Brignais  FR 69530 
 MA-S,70B3D5119,YPP Corporation,24 Geumchon-gu Seoul KR 153-802 
 MA-S,8C1F64D09,"Minartime(Beijing)Science &Technology Development Co.,Ltd","1201B, 12th Floor, Building 4, No. 2 Ronghua South Road Beijing Economic and Technological Development Zone, Beijing (Yizhuang Group, High-end Industrial Area, Beijing Pilot Free Trade Zone) Beijing  CN 100176 "
@@ -3532,7 +3551,15 @@ MA-S,8C1F64D4F,Henan Creatbot Technology Limited,"6#, Chaoya Industry Park, Hang
 MA-S,8C1F64BD5,Pro-Custom Group,13030 Alondra Blvd. unit 101 Cerritos CA US 90703 
 MA-S,8C1F64BFE,PuS GmbH und Co. KG,Hainstr. 13 Gera Germany DE 07545 
 MA-S,8C1F64E71,Alma,La Bastide Blanche Bat B4 Vitrolles PACA FR 13127 
+MA-S,8C1F6486C,Abbott Diagnostics Technologies AS,P. O.  Box 6863 Rodeløkka Oslo Oslo NO 0504 
 MA-S,70B3D5923,eumig industrie-TV GmbH.,Gewerbeparkstr. 9 Anif Salzburg AT 5081 
+MA-S,8C1F6433D,"ARROW (CHINA) ELECTRONICS TRADING CO., LTD.","Floor 28, taikang financial building, building 1, yard 38, dongsanhuan north road, chaoyang district, Beijing beijing beijing CN 100033 "
+MA-S,8C1F64347,Plut d.o.o.,Senožeti 91a Dol pri Ljubljani  SI 1262 
+MA-S,8C1F64920,VuWall Technology Europe GmbH,Birnenweg 15 Reutlingen  DE 72766 
+MA-S,8C1F645EC,NV BEKAERT SA,BEKAERTSTRAAT 2 ZWEVEGEM  BE 8550 
+MA-S,8C1F64B9B,Kromek Limited,"NETPark, Thomas Wright Way Sedgefield County Durham GB TS213FD "
+MA-S,8C1F64749,TIAMA,215 Chemin du Grand Revoyet  Saint-Genis Laval  Auvergne Rhône Alpes FR 69230 
+MA-S,8C1F64AA0,Flextronics International Kft,38. Zrinyi Str. Zalaegerszeg Zala HU 8900 
 MA-S,8C1F6482B,Flow Power,"Suite 2, Level 3, 18 - 20 York St Sydney  AU 2000 "
 MA-S,8C1F645A7,RCH SPA,Via Cendon 39 Silea  IT 31057 
 MA-S,8C1F64049,NUANCES ORG,92 AVENUE DE WAGRAM PARIS  FR 75017 
@@ -4716,6 +4743,12 @@ MA-S,8C1F6425F,Acuris Inc,"A-810 D-tech tower, 33 Gwacheondae-7gil Gwacheon-si G
 MA-S,8C1F6422D,KAYSONS ELECTRICALS PRIVATE LIMITED,"SH 15/79 A, Shivpur Varanasi Uttar Pradesh IN 221003 "
 MA-S,8C1F64755,Flextronics International Kft,38. Zrinyi Str. Zalaegerszeg Zala HU 8900 
 MA-S,8C1F640A0,TECHNIWAVE,35 RUE DE MONTFORT - ZA LE CLOS DE VILLARCEAUX THOIRY  FR 78770 
+MA-S,8C1F649D3,EA Elektro-Automatik,Helmholtzstraße 31-37 Viersen Nordrhein-Westfalen DE 41747 
+MA-S,8C1F649F1,Skymira,167 Cherry St Ste 430 Milford CT US 06460 
+MA-S,8C1F6488C,SAL Navigation AB,VÄSTBERGA ALLÉ 36B Hägersten Stockholm SE 126 30 
+MA-S,8C1F64A61,Breas Medical AB,Företagsvägen 1 Mölnlycke  SE SE-435 33 
+MA-S,8C1F64076,PACK'R,2 rue de la Cailliardiere BEAUCOUZE  FR 490710 
+MA-S,8C1F64A12,"FUJIHENSOKUKI Co., Ltd.",gifu-city nakasu-town 18 Gifu JP 500-8448 
 MA-S,8C1F64D63,Mobileye,13 Hartom st. Jerusalem  IL 91450 
 MA-S,70B3D590E,Maytronics Ltd.,Kibbutz Yizrael Kibbutz Yizrael  IL 1935000 
 MA-S,8C1F64201,Hiwin Mikrosystem Corp.,NO 6 JINGKE CENTRAL RD  TAICHUNG CITY TAIWAN 40841 TAICHUNG  TW 40841 
@@ -5878,3 +5911,14 @@ MA-S,8C1F64ABF,STACKIOT TECHNOLOGIES PRIVATE LIMITED,"UNIT 1 TO 6, 3RD FLOOR, JM
 MA-S,8C1F6407D,Talleres de Escoriaza SAU,"Barrio Ventas 35, Irun Irun Gipuzkoa ES 20305 "
 MA-S,8C1F64ACB,Villari B.V.,Oostsingel 209 Delft  NL 2612HL 
 MA-S,8C1F642BF,Gogo Business Aviation,"105 Edgeview Dr., Suite 300 Broomfield CO US 80021 "
+MA-S,8C1F6471D,Epigon spol. s r.o.,1. maje 2632 Roznov pod Radh. Czech Republic CZ 75661 
+MA-S,8C1F6494F,Förster Technik GmbH,Gerwigstr. 25 Engen  DE 78234 
+MA-S,8C1F64D9D,"MITSUBISHI HEAVY INDUSTRIES THERMAL SYSTEMS, LTD.","3-1, Asahi, Nishibiwajima-Cho Kiyosu Aichi JP 452-8561 "
+MA-S,8C1F641CA,"Power Electronics Espana, S.L.","C/ Leonardo Da Vinci, 24-26 Paterna Valencia ES 46980 "
+MA-S,8C1F64457,"SHANGHAI ANGWEI INFORMATION TECHNOLOGY CO.,LTD.","ROOM 607,BUILDING 2, No.2555 XIUPU ROAD,PUDONG NEW AREA, SHANGHAI Shanghai Shanghai CN 201315 "
+MA-S,8C1F64D62,Alpes recherche et développement,Micropolis bat Clematis Gap paca FR 05000 
+MA-S,8C1F646DE,"SUN･TECTRO,Ltd.","6-1, FUNAKOSHI-MINAMI 1-CHOME, AKI-KU HIROSHIMA JP 736-0082 "
+MA-S,8C1F644A6,Alaire Technologies Inc,2760 Eisenhower Ave. Suite 402 Alexandria VA US 22314 
+MA-S,8C1F64760,Q-Light AS,Kongsgård Alle 62 Kristiansand s Agder NO 4632 
+MA-S,8C1F64D1B,Audiodo International AB,Riggaregatan 57 Malmö Skåne SE 21113 
+MA-S,8C1F643E2,Agrico,"1 La Belle Rd, Bellville Cape Town Western Cape ZA 7535 "
